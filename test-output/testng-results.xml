@@ -1,0 +1,23 @@
+<?xml version="1.0" encoding="UTF-8"?>
+<testng-results skipped="0" failed="0" ignored="0" total="2" passed="2">
+  <reporter-output>
+  </reporter-output>
+  <suite name="Suite" duration-ms="65462" started-at="2017-05-26T02:12:14Z" finished-at="2017-05-26T02:13:20Z">
+    <groups>
+    </groups>
+    <test name="Test" duration-ms="65462" started-at="2017-05-26T02:12:14Z" finished-at="2017-05-26T02:13:20Z">
+      <class name="goolle.googleTesting.LoginTiki">
+        <test-method status="PASS" signature="testlogin()[pri:0, instance:goolle.googleTesting.LoginTiki@27efef64]" name="testlogin" duration-ms="36915" started-at="2017-05-26T09:12:14Z" finished-at="2017-05-26T09:12:51Z">
+          <reporter-output>
+          </reporter-output>
+        </test-method> <!-- testlogin -->
+      </class> <!-- goolle.googleTesting.LoginTiki -->
+      <class name="goolle.googleTesting.RegirterTiki">
+        <test-method status="PASS" signature="testing()[pri:0, instance:goolle.googleTesting.RegirterTiki@3e6fa38a]" name="testing" duration-ms="28516" started-at="2017-05-26T09:12:51Z" finished-at="2017-05-26T09:13:20Z">
+          <reporter-output>
+          </reporter-output>
+        </test-method> <!-- testing -->
+      </class> <!-- goolle.googleTesting.RegirterTiki -->
+    </test> <!-- Test -->
+  </suite> <!-- Suite -->
+</testng-results>
